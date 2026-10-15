@@ -19,7 +19,14 @@ and plan open-source contributions.
 - Express
 - Ollama
 
-## Status
+## Current Development Status
+
+- [x] Initialise Git repository
+- [x] Add README, licence, and .gitignore
+- [x] Push initial commit to GitHub
+- [ ] Build the repository explorer
+- [ ] Integrate the local AI model
+- [ ] Add contribution planning
 
 Currently under development.
 
